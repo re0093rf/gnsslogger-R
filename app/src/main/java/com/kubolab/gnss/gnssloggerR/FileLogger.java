@@ -28,6 +28,7 @@ import java.util.Locale;
 import java.util.ArrayList;
 
 public class FileLogger implements GnssListener {
+    //ボーリング
 
     private static final String TAG = "FileLogger";
     private static final String ERROR_WRITING_FILE = "Problem writing to file.";
